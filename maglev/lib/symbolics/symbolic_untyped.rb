@@ -1,0 +1,2 @@
+class SymbolicUntyped < SymbolicEmptinessValue
+end
